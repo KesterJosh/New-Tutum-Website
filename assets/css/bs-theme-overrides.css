@@ -9,7 +9,7 @@
   --bs-secondary-text-emphasis: #061632;
   --bs-secondary-bg-subtle: #CFD7E5;
   --bs-secondary-border-subtle: #9FAFCB;
-  --bs-body-font-family: Figtree;
+  --bs-body-font-family: Figtree, sans-serif;
 }
 
 .btn-primary {
