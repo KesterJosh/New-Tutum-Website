@@ -1,4 +1,58 @@
-.fit-cover {
-  object-fit: cover;
+.fit-coverx {
+  object-fit: none;
+  background-position: left;
+  /*background: url("../../assets/img/logoipsum-287%201.png");*/
+  width: 100%;
+}
+
+.autosync {
+  padding: 100px;
+}
+
+.autosync {
+}
+
+.forminput {
+  font-family: Figtree, sans-serif;
+  font-weight: bold;
+  color: rgb(254,254,255);
+}
+
+@media (max-width: 700px) {
+  .footRemark {
+    padding: 0px !important;
+    margin-top: 250px !important;
+  }
+}
+
+.footRemark {
+}
+
+@media (max-width: 1300px) {
+  .disappearState {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1300px) {
+  .showState {
+    display: flex !important;
+  }
+}
+
+@media (max-width: 1300px) {
+  .disappearState {
+    display: none !important;
+  }
+}
+
+.showState {
+  display: none;
+}
+
+@media (max-width: 750px) {
+  .extraHome {
+    font-size: 25px !important;
+  }
 }
 
