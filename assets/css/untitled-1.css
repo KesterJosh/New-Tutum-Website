@@ -1,0 +1,13 @@
+.row {
+}
+
+@media (max-width: 1300px) {
+  .showStatex {
+    display: block !important;
+  }
+}
+
+.showStatex {
+  display: none;
+}
+

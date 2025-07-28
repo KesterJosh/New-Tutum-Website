@@ -3,3 +3,12 @@
   background-color: var(--bs-yellow);
 }
 
+.row {
+}
+
+@media (max-width: 1300px) {
+  .showStatex {
+    display: flex !important;
+  }
+}
+
